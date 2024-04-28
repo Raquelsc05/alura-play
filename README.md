@@ -1,4 +1,4 @@
-# Alura Play
+# Alura Play ▶️
 
 Atividade Challenge - One T6 da Alura com a Oracle.
 
